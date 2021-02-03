@@ -1,8 +1,17 @@
+.size{
+    width: 90vw;
+    height: 90vh;
+    position: relative;
+}
 .layout{
     width: 800px;
     height: 600px;
     font-style: italic;
     text-align: center;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    position: absolute;
 }
 
 
